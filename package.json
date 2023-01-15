@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
-    "axios": "^1.2.2"
+    "axios": "^1.2.2",
+    "movie-trailer": "^3.0.0",
+    "react-youtube": "^10.1.0"
   }
 }
